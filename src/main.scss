@@ -90,7 +90,12 @@ html {
     .cfg-color-headers .cm-header-#{$number} {
         color: var(--sn-stylekit-info-color);
     }
-
+    .cfg-color-headers .cm-header-2 {
+        color: #e00808d2
+    }       
+    .cfg-color-headers .cm-header-4 {
+        color: #08b5e0ea
+    }           
     .cm-formatting-header-#{$number} {
         opacity: 0.3;
         font-size: 90%;

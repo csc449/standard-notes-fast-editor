@@ -23,7 +23,7 @@ module.exports = function (grunt) {
             dist: {
                 options: {
                     style: 'expanded',
-                    sourcemap: 'none'
+                    //sourcemap: 'none'
                 },
                 files: {
                     'dist/app.css': 'src/main.scss'

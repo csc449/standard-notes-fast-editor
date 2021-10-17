@@ -1,9 +1,9 @@
 {
     "identifier": "dev.csc449.fast_editor",
-    "name": "Fast Editor",
+    "name": "My Fast Editor",
     "content_type": "SN|Component",
     "area": "editor-editor",
-    "version": "4.0.2",
+    "version": "4.0.3",
     "description": "A plain text editor with improved mobile support and performance",
     "url": "https://raw.githack.com/dec0dOS/standard-notes-fast-editor/master/index.html",
     "download_url": "https://github.com/csc449/standard-notes-fast-editor/archive/refs/tags/4.0.2.zip",
